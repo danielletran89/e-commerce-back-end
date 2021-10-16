@@ -11,4 +11,6 @@ Sequelize, Express, dotenv, Node.js, Javascript
 * Insomnia Video: https://watch.screencastify.com/v/OQhgtpJP37obA5LfY7Is
 
 ## 
-! https://watch.screencastify.com/v/OQhgtpJP37obA5LfY7Is
+
+https://user-images.githubusercontent.com/82686855/137568320-42c100f5-3882-41b0-88c0-67608c8853b4.mp4
+
